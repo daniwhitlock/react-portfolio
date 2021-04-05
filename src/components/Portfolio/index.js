@@ -1,9 +1,17 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import PhotoList from '../PhotoList';
 
-function Portfolio() {
+
+function Portfolio(props) {
+    const { currentCategory } = props;
+    console.log(currentCategory);
     return (
-        <div>Hello</div>
+        <section>
+      <h1 >{currentCategory.name}</h1>
+      <a href={currentCategory.github} target="_blank">Github Link</a>
+      <a href={currentCategory.deployment} target="_blank">>Deployment</a>
+      <PhotoList category={currentCategory.name} />
+    </section>
     );
 }
 

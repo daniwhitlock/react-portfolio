@@ -15,11 +15,12 @@ function App() {
     <Router>
     <div>
       <Nav></Nav>
-      <main>
-        <Route path="/" component={About} />
-        <Route path="/about" component={About} />
+      <main className="main">
+        
+        {/* <Route path="/about" component={About} /> */}
         <Route path="/portfolio" component={Portfolio} />
         <Route path="/contact" component={Contact} />
+        <Route path="/" component={About} />
       </main>
       <Footer></Footer>
     </div>

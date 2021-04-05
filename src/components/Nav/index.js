@@ -10,13 +10,11 @@ function Nav() {
                 <h2 className="logo">
                     <a href="/">Dani Whitlock</a>
                 </h2>
-                <h2 className="small-screen-logo flex-row px-1">
-                    <a href="/">DW</a>
-                </h2>
-                <nav className="header-nav">
+
+                <nav className="header-nav navbar">
                     <ul className="flex-row nav-list">
                         <li className="mx-2">
-                            <Link className="header-link" to="/about">About Me</Link>
+                            <Link className="header-link" to="/about">About</Link>
                         </li>
                         <li className="mx-2">
                             <Link className="header-link" to="/portfolio">Portfolio </Link>
