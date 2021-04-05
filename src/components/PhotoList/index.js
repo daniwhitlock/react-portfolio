@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 const PhotoList = () => {
-    const [currentPhoto, setCurrentPhoto] = useState();
+    // const [currentPhoto, setCurrentPhoto] = useState();
 
-    const [photos] = useState([
+    const [photos] = [
         {
             name: 'Tech It Up',
             github: 'https://github.com/daniwhitlock/tech-blog',
@@ -34,15 +34,15 @@ const PhotoList = () => {
             github: 'https://github.com/daniwhitlock/challenge-6-weather-dashboard',
             deployment: 'https://daniwhitlock.github.io/Weather-dashboard/'
         }
-    ]);
-    const currentPhotos = photos.filter((photo) => photo.category === category);
+    ];
+    const currentPhotos = photos.filter(photo);
 
     return (
         <div>
             <div className="flex-row">
                 {currentPhotos.map((image, i) => (
                     <img
-                    src={require(`../../assets/profile/${i}.jpg`)}
+                    src={require(`../../assets/portfolio/${i}.jpg`)}
                     alt={image.name}
                     className="img-thumbnail mx-1"
                     key={image.name}
