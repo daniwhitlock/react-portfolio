@@ -103,7 +103,7 @@
     padding: 20px;
 }
 
-.about h2 {
+.section-header h2 {
     text-transform: uppercase;
     font-family: 'New Tegomin', serif;
 }
@@ -130,6 +130,35 @@
 img {
     width: 60%;
 
+}
+
+/* contact section */
+
+.contact-padding {
+    padding: 10px;
+}
+
+.contact-label {
+    padding-right: 10px;
+}
+input {
+    color: black;
+}
+button {
+font-size: 1rem;
+  /* text-decoration: none; */
+  text-transform: uppercase;
+  padding: 0.25rem 1rem;
+  border-radius: 0.8rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 0 1px;
+  background-color: var(--tertiary-color);
+}
+
+button:hover {
+    background-color: var(--fourth-color);
 }
 
 
