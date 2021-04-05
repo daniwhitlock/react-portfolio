@@ -35,7 +35,7 @@ const PhotoList = () => {
             deployment: 'https://daniwhitlock.github.io/Weather-dashboard/'
         }
     ];
-    const currentPhotos = photos.filter(photo);
+    const currentPhotos = photos.filter();
 
     return (
         <div>

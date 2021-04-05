@@ -22,9 +22,8 @@ function Nav() {
                         <li className="mx-2">
                             <Link className="header-link" to="/contact">Contact</Link>
                         </li>
-                        {/* TO DO PUT IN LINK */}
                         <li className="mx-2">
-                            <a className="header-link" href="aputinlinktogoogledocresume">Resume </a>
+                            <a className="header-link" href="https://drive.google.com/file/d/16tIyVihzH_2PJ5zbfHivb2_yVuslX0Hp/view?usp=sharing" target="_blank">Resume </a>
                         </li>
                     </ul>
                 </nav>
