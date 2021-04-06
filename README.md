@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# DANI WHITLOCK 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Dani.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A full stack web developer.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy taking complex problems and turning them into visually appealing user friendly designs.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## MY WORK
 
-## Available Scripts
+* [Tech It Up](https://salty-woodland-41746.herokuapp.com/) : [Github Repo](https://github.com/daniwhitlock/tech-blog)
+![Tech It Up](\src\assets\0.JPG)
+* [The Minimal Prepper](https://minimal-prepper.herokuapp.com/) : [Github Repo](https://github.com/daniwhitlock/the-minimal-prepper)
+![The Minimal Prepper](\src\assets\1.JPG)
+* [Taskinator](https://daniwhitlock.github.io/Taskinator/) : [Github Repo](https://github.com/daniwhitlock/Taskinator)
+![Taskinator](\src\assets\2.JPG)
+* [Run Buddy 2.0'](https://daniwhitlock.github.io/run-buddy2.0/') : [Github Repo](https://github.com/daniwhitlock/run-buddy2.0)
+![Run Buddy 2.0](\src\assets\3.JPG)
+* [Team Profile Generator](https://drive.google.com/file/d/1QIyY9JyHTSr5PwX1zxKwzl9wFwsJIuem/view) : [Github Repo](https://github.com/daniwhitlock/Team-Profile-Generator)
+![Team Profile Generator](\src\assets\4.JPG)
+* [Weather Dashboard](https://daniwhitlock.github.io/Weather-dashboard/) : [Github Repo](https://github.com/daniwhitlock/challenge-6-weather-dashboard)
+![Weather Dashboard](\src\assets\5.JPG)
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact info
+* 385-200-3714
+* daniwhitlock4@gmail.com
+* [GitHub](https://github.com/daniwhitlock)
+* [linkedin](https://www.linkedin.com/in/dani-whitlock-471297168/")
+* [Portfolio](https://daniwhitlock.github.io/)

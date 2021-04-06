@@ -44,24 +44,24 @@ function Contact() {
             
             
             <form id="contact-form" onSubmit={handleSubmit}>
-                <div>
+                <div className="form-padding">
                     <label className="contact-label" htmlFor="name">Name:</label>
                     <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
                 </div>
-                <div>
+                <div className="form-padding">
                     <label className="contact-label" htmlFor="email">Email address:</label>
                     <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
                 </div>
-                <div>
+                <div className="form-padding">
                     <label className="contact-label" htmlFor="message">Message:</label>
                     <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
                 </div>
                 {errorMessage && (
                     <div>
-                        <p className="error-text">{errorMessage}</p>
+                        <p className="error-message">{errorMessage}</p>
                     </div>
                 )}
-                <button type="submit">Submit</button>
+                <button className="button" type="submit">Submit</button>
             </form>
             </div>
         </section>

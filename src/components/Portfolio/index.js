@@ -1,10 +1,17 @@
 import React from 'react';
-// import { Link } from 'react-router-dom';
+import PhotoList from '../PhotoList';
 
-function Portfolio() {
-    return (
-        <div>Hello</div>
-    );
+
+function Portfolio(props) {
+  // const { currentCategory } = props;
+  console.log(props);
+  return (
+    <section>
+
+
+      <PhotoList />
+    </section>
+  );
 }
 
 export default Portfolio;
