@@ -40,29 +40,26 @@ function Contact() {
         <section className="section-header">
             <h2 >Contact me</h2>
             <div className="contact-padding">
-
-            
-            
-            <form id="contact-form" onSubmit={handleSubmit}>
-                <div className="form-padding">
-                    <label className="contact-label" htmlFor="name">Name:</label>
-                    <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
-                </div>
-                <div className="form-padding">
-                    <label className="contact-label" htmlFor="email">Email address:</label>
-                    <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
-                </div>
-                <div className="form-padding">
-                    <label className="contact-label" htmlFor="message">Message:</label>
-                    <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
-                </div>
-                {errorMessage && (
-                    <div>
-                        <p className="error-message">{errorMessage}</p>
+                <form id="contact-form" onSubmit={handleSubmit}>
+                    <div className="form-padding">
+                        <label className="contact-label" htmlFor="name">Name:</label>
+                        <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
                     </div>
-                )}
-                <button className="button" type="submit">Submit</button>
-            </form>
+                    <div className="form-padding">
+                        <label className="contact-label" htmlFor="email">Email address:</label>
+                        <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
+                    </div>
+                    <div className="form-padding">
+                        <label className="contact-label" htmlFor="message">Message:</label>
+                        <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+                    </div>
+                    {errorMessage && (
+                        <div>
+                            <p className="error-message">{errorMessage}</p>
+                        </div>
+                    )}
+                    <button className="button" type="submit">Submit</button>
+                </form>
             </div>
         </section>
     );

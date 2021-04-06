@@ -16,23 +16,6 @@
     background-color: var(--secondary-color);
 }
 
-/* 
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-      sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  
-  code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-      monospace;
-  } */
-
-/* add styling */
-
 /* header styling */
 
 .header {
@@ -42,6 +25,7 @@
     justify-content: space-between;
     top: 0;
     color: var(--primary-color);
+    /* border-bottom: 5px solid var(--fourth-color); */
 }
 
 .logo {
@@ -91,12 +75,15 @@
 }
 
 .hero {
-    background-image: url("./assets/images/tech-against-trafficking-hero.jpg");
-    background-size: cover;
+    /* background-image: url("./assets/images/tech-against-trafficking-hero.jpg"); */
+    background-image: linear-gradient(var(--fourth-color), var(--secondary-color) );
+    /* background-color: var(--secondary-color); */
+    padding: 30px;
+    /* background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-position: 80%;
-    padding: 80px;
+    padding: 80px; */
 }
 
 /* About Styling */
@@ -109,6 +96,7 @@
 .section-header h2 {
     text-transform: uppercase;
     font-family: 'New Tegomin', serif;
+    padding-bottom: 10px;
 }
 
 .about-flex-container {
@@ -141,6 +129,41 @@ img {
     width: 60%;
 }
 
+/* Portfolio styling */
+.photolist-wrapper {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.image-card {
+   justify-content: center;
+    padding: 20px;
+}
+.image-card h1 {
+    text-transform: uppercase;
+    font-family: 'New Tegomin', serif;
+    padding-bottom: 5px;
+    display: block;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.image-text-wrapper {
+    padding-bottom: 10px;
+}
+
+.image-a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 30px;
+    color: var(--primary-color);
+}
+
+.image-a:hover {
+    text-decoration: none;
+    color: var(--fourth-color);
+}
 /* contact section */
 
 .contact-padding {
@@ -188,19 +211,6 @@ textarea:focus {
     border: 4px solid var(--fourth-color);
 }
 
-/* button {
-    font-size: 1rem;
-   
-    text-transform: uppercase;
-    padding: 0.25rem 1rem;
-    border-radius: 10px;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    margin: 0 1px;
-    background-color: var(--tertiary-color);
-} */
-
 .button {
     font-size: 1rem;
     /* text-decoration: none; */
@@ -244,7 +254,7 @@ button:hover {
 
 /* media queries */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 730px) {
    
     header {
         display: flex;
@@ -257,7 +267,9 @@ button:hover {
         justify-content: center; 
     }
     .hero {
-        display: none;
+        background-image: none;
+        border-bottom: 5px solid var(--fourth-color);
+        padding: 0px;
     }
     .nav-list {
         justify-content: center;
@@ -287,5 +299,13 @@ button:hover {
     textarea {
         width: 300px;
     }
-
+    .image-card h1 {
+        font-size: x-large;
+    }
+    .img-thumbnail {
+        width: 250px;
+        height: 150px;
+        padding: 0px;
+    }
+    
 }
