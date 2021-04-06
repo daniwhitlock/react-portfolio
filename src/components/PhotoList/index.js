@@ -40,7 +40,7 @@ const PhotoList = () => {
         <div>
             <div className="flex-row">
                 {photos.map((image, i) => (
-                    <>
+                    <div>
                     <h1 >{image.name}</h1>
                      <a href={image.github} target="_blank">Github Link</a>
                     <a href={image.deployment} target="_blank">Deployment</a>
@@ -49,7 +49,8 @@ const PhotoList = () => {
                     alt={image.name}
                     className="img-thumbnail mx-1"
                     key={image.name}
-                    /></>
+                    />
+                    </div>
                    
                 ))}
             </div>
