@@ -1,9 +1,8 @@
 import React from 'react';
 
 const PhotoList = () => {
-    // const [currentPhoto, setCurrentPhoto] = useState();
-
-    const [photos] = [
+   
+    const photos = [
         {
             name: 'Tech It Up',
             github: 'https://github.com/daniwhitlock/tech-blog',
@@ -35,22 +34,28 @@ const PhotoList = () => {
             deployment: 'https://daniwhitlock.github.io/Weather-dashboard/'
         }
     ];
-    const currentPhotos = photos.filter();
+ 
 
     return (
         <div>
             <div className="flex-row">
-                {currentPhotos.map((image, i) => (
+                {photos.map((image, i) => (
+                    <>
+                    <h1 >{image.name}</h1>
+                     <a href={image.github} target="_blank">Github Link</a>
+                    <a href={image.deployment} target="_blank">Deployment</a>
                     <img
-                    src={require(`../../assets/portfolio/${i}.jpg`)}
+                    src={require(`../../assets/portfolio/${i}.JPG`).default}
                     alt={image.name}
                     className="img-thumbnail mx-1"
                     key={image.name}
-                    />
+                    /></>
+                   
                 ))}
             </div>
         </div>
     );
 };
+
 
 export default PhotoList;
