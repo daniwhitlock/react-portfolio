@@ -6,10 +6,14 @@ function Portfolio(props) {
   // const { currentCategory } = props;
   console.log(props);
   return (
-    <section>
+    <section className="section-header">
+      <h2> Portfolio</h2>
+      <div className="spacing-portfolio"></div>
 
 
-      <PhotoList />
+      <div className="photolist-wrapper">
+        <PhotoList />
+      </div>
     </section>
   );
 }
