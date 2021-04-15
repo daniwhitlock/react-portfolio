@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
     <div>
-      <Nav></Nav>
+      <Nav/>
       <main className="main">
         
         {/* <Route path="/about" component={About} /> */}

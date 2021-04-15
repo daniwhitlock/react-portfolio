@@ -8,7 +8,7 @@ function Nav() {
         <div>
             <header className="flex-row px-1 header">
                 <h2 className="logo">
-                    <a href="/">Dani Whitlock</a>
+                    <a href="/react-portfolio/">Dani Whitlock</a>
                 </h2>
 
                 <nav className="header-nav navbar">
