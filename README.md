@@ -8,28 +8,28 @@
 
 [Deployment](https://daniwhitlock.github.io/react-portfolio/)
 
-![react-portfolio](\src\assets\portfolio\deploy-1.JPG)
-![react-portfolio](\src\assets\portfolio\deploy-2.JPG)
-![react-portfolio](\src\assets\portfolio\deploy-3.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841638-052a4600-ab97-11eb-81e9-43f6cba745de.png)
+![image](https://user-images.githubusercontent.com/72768805/116841648-0bb8bd80-ab97-11eb-80a0-c6d4919ae842.png)
+![image](https://user-images.githubusercontent.com/72768805/116841655-11ae9e80-ab97-11eb-9072-a558bdc603e1.png)
 
 
 
 ## MY WORK
 
 * [Tech It Up](https://salty-woodland-41746.herokuapp.com/) : [Github Repo](https://github.com/daniwhitlock/tech-blog)
-![Tech It Up](src\assets\portfolio\0.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841662-18d5ac80-ab97-11eb-81c5-531f0fed2c73.png))
 * [The Minimal Prepper](https://minimal-prepper.herokuapp.com/) : [Github Repo](https://github.com/daniwhitlock/the-minimal-prepper)
-![The Minimal Prepper](src\assets\portfolio\1.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841678-24c16e80-ab97-11eb-8d72-c401c2874d1f.png)
 * [Taskinator](https://daniwhitlock.github.io/Taskinator/) : [Github Repo](https://github.com/daniwhitlock/Taskinator)
-![Taskinator](src\assets\portfolio\2.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841691-2ee36d00-ab97-11eb-9ec1-aa98419f9e09.png)
 * [Run Buddy 2.0'](https://daniwhitlock.github.io/run-buddy2.0/') : [Github Repo](https://github.com/daniwhitlock/run-buddy2.0)
-![Run Buddy 2.0](src\assets\portfolio\3.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841694-33a82100-ab97-11eb-9f0f-63cd9000dcab.png)
 * [Team Profile Generator](https://drive.google.com/file/d/1QIyY9JyHTSr5PwX1zxKwzl9wFwsJIuem/view) : [Github Repo](https://github.com/daniwhitlock/Team-Profile-Generator)
-![Team Profile Generator](src\assets\portfolio\4.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841701-39056b80-ab97-11eb-8b5e-7e64f74079d1.png)
 * [Weather Dashboard](https://daniwhitlock.github.io/Weather-dashboard/) : [Github Repo](https://github.com/daniwhitlock/challenge-6-weather-dashboard)
-![Weather Dashboard](src\assets\portfolio\5.JPG)
-*[threadSHARE](https://threadshare.herokuapp.com/) : [Github Repo](https://github.com/Mheyn95/threadshare)
-![Run Buddy 2.0](src\assets\portfolio\6.JPG)
+![image](https://user-images.githubusercontent.com/72768805/116841706-3e62b600-ab97-11eb-8ab2-c969c27c4cf0.png)
+* [threadSHARE](https://threadshare.herokuapp.com/) : [Github Repo](https://github.com/Mheyn95/threadshare)
+![image](https://user-images.githubusercontent.com/72768805/116841721-44589700-ab97-11eb-943d-52d791536fab.png)
 
 
 ## Contact info
