@@ -17,7 +17,7 @@
 ## MY WORK
 
 * [Tech It Up](https://salty-woodland-41746.herokuapp.com/) : [Github Repo](https://github.com/daniwhitlock/tech-blog)
-![image](https://user-images.githubusercontent.com/72768805/116841662-18d5ac80-ab97-11eb-81c5-531f0fed2c73.png))
+![image](https://user-images.githubusercontent.com/72768805/116841662-18d5ac80-ab97-11eb-81c5-531f0fed2c73.png)
 * [The Minimal Prepper](https://minimal-prepper.herokuapp.com/) : [Github Repo](https://github.com/daniwhitlock/the-minimal-prepper)
 ![image](https://user-images.githubusercontent.com/72768805/116841678-24c16e80-ab97-11eb-8d72-c401c2874d1f.png)
 * [Taskinator](https://daniwhitlock.github.io/Taskinator/) : [Github Repo](https://github.com/daniwhitlock/Taskinator)
