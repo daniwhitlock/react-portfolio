@@ -32,6 +32,11 @@ const PhotoList = () => {
             name: 'Weather Dashboard',
             github: 'https://github.com/daniwhitlock/challenge-6-weather-dashboard',
             deployment: 'https://daniwhitlock.github.io/Weather-dashboard/'
+        },
+        {
+            name: 'threadShare',
+            github: 'https://github.com/Mheyn95/threadshare',
+            deployment: 'https://threadshare.herokuapp.com/'
         }
     ];
 
